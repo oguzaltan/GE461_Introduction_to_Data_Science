@@ -1,4 +1,12 @@
-# GE461_Introduction_to_Data_Science
-This repository contains five different projects, created and submitted for the course GE461 Introduction to Data Science, provided by Bilkent University Computer Science department.
+# GE461 Introduction to Data Science
+This repository contains five different projects, created and submitted for the course GE461 Introduction to Data Science, provided by Bilkent University Computer Science department. It provides breadth knowledge on topics and hands-on experience through projects and computer assignments.
+
 ## Course Content
-Introduction to data science fundamentals, techniques and applications; data collection, preparation, storage and querying; parametric models for data; models and methods for fitting, analysis, evaluation, and validation; dimensionality reduction, visualization; various learning methods, classifiers, clustering, data and text mining; applications in diverse domains such as business, medicine, social networks, computer vision; breadth knowledge on topics and hands-on experience through projects and computer assignments. 
+1. Introduction to data science fundamentals, techniques and applications
+2. Data collection, preparation, storage and querying
+3. Parametric models for data
+4. Models and methods for fitting
+5. Analysis, evaluation, and validation
+6. Dimensionality reduction, visualization
+7. Various learning methods, classifiers, clustering, data and text mining
+8. Applications in diverse domains such as business, medicine, social networks, computer vision
